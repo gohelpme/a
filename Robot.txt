@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /public/
+Sitemap: https://gohelpme.neocities.org/sitemap.xml
